@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+span{
+    font-weight: 800;
+}
+.container{
+    width: 1200px;
+    margin-left: 58px;
+}
+.box-mais_fontes{
+    display: flex;
+    align-items: center;
+    border: 1px solid   #b9b9b9;
+    border-left: 10px solid #ffb56b;
+    width: 850px;
+    height: 100px;
+    margin: 10px 90px;
+}
+.box-mais_fontes img{
+    height: 64px;
+    width: 64px;
+}
+
+.box-mais_fontes p{
+    font-size: 14px;
+}
+
+.content{
+    display: flex;
+    align-items:flex-start ;
+    justify-content: center;
+    width: 1200px;
+    height: 100px;
+
+
+}
